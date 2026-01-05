@@ -8,4 +8,4 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 📊 GitHub Stats:
-![Chen Ning's GitHub stats](https://github-readme-stats-eight-gamma-34.vercel.app/api?username=katsudon27&show_icons=true&theme=transparent&hide=stars&rank_icon=github)
+![Chen Ning's GitHub stats](https://github-readme-stats-eight-gamma-34.vercel.app/api?username=katsudon27&show_icons=true&theme=dracula&hide=stars&rank_icon=github)
